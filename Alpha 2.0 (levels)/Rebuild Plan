@@ -28,3 +28,18 @@ Finally puts back into lvlactive state or if applicable ending state
 
     ending
 Displays message which changes depending on level of perfection points then exits game
+
+Variable needed and their roles
+
+    lvlnumber,
+    perfection,
+    turns,
+    
+    lvlnumber
+Keeps track of the current level
+
+    perfection
+Keeps track of how many perfect levels (completed in fewest turns) have been achieved
+
+    turns
+Keeps track of how many turns have been taken on the current level
