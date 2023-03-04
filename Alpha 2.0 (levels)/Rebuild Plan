@@ -1,0 +1,30 @@
+Create enums for the different gamestates
+
+    introduction,
+    lvlactive,
+    lvlfinish,
+    ending,
+    (Perhaps lvlwin would be a helpful function)
+    
+Attach function for each enum that does the role of each state
+
+  What each state needs to be able to do:
+  
+    introduction
+Introductory text with 'print!' perhaps demonstrating the Heptagram and explaining how to play.
+Finally ends with changing the gamestate to the lvlactive enum/function.
+
+    lvlactive
+Bulk of the game.
+Needs to check the lvlnumber variable to know how to set up the heptagram and correct controls.
+Also needs to be able to check for win condition.
+Once win condition is reached changes the level variable
+If the round was done in the fewest turns then adds +1 to perfection variable (affects dialogue)
+Switches to lvlfinish enum
+
+    lvlfinish
+Displays dialogue based upon perfection variable and level variable
+Finally puts back into lvlactive state or if applicable ending state
+
+    ending
+Displays message which changes depending on level of perfection points then exits game
