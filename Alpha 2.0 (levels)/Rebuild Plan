@@ -1,10 +1,10 @@
-Create enums for the different gamestates
+Create enums for the different gamestates (irrelivent)
 
     introduction,
     lvlactive,
     lvlfinish,
     ending,
-    (Perhaps lvlwin would be a helpful function)
+    (Perhaps lvlwin would be a helpful function) - [Over segmented]
     
 Attach function for each enum that does the role of each state
 
