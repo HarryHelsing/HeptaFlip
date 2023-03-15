@@ -7,3 +7,6 @@ Or perhaps it could do with a tidy up.
 Change turns = turns + 1 to turns += 1 (increment operator)
 Use += for amount of perfect levels?
 Change certain println! to print! so better formatting can be used
+
+Interchangeable moveset with match statements and blocks of code
+fn zone with variable for moveset
