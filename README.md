@@ -7,4 +7,4 @@ My aim is to create a game with many levels and dialogue
 
 [X] Versatile codebase is needed to easily create new levels
 [ ] Add dynamic dialogue to the levels that adapts to how well you are doing
-[ ] Include ASCII character with the dialogue e.g. /{`*-`*}\  -{'o'}-  \{^-^}/  ~{'-'}¬
+[ ] Include ASCII character with the dialogue e.g. `/{'-'}\`  `-{'o'}-`  `\{^-^}/`  `~{'-'}¬`
