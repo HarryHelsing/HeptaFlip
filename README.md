@@ -3,6 +3,7 @@ A terminal based puzzle game based on the heptagram (a seven lined version of th
 As one of the first things I have ever coded the project may be a little disorganised until I become more skilled.  
 There are currently 49 levels where you have to deduce paterns to flip lines into their unbroken state.  
 
+***
 
 ## To-do
 
