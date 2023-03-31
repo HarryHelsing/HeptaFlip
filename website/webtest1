@@ -1,0 +1,37 @@
+<html>
+
+	<head>
+		<title>HeptaFlip</title>
+		<style>
+		h1 {color:#d6a000;text-align:center;}
+		p {color:#e48300;text-align:center;}
+		body {color:yellow;background-color:#060020;}
+		* {font-family: monospace;}
+		.container {
+		  display: flex;
+		  flex-wrap: wrap;
+		}
+		.sidebar {
+		  flex-basis: 10%;
+		}
+		.main-content {
+		  flex-basis: 90%;
+		}
+		</style>
+	</head>
+
+	<body>
+<div class="container">
+<div class="sidebar" style="background-color:black;">
+		<img src="hepta.png" style="width:100%;"/>
+ </div>
+
+  <div class="main-content" style="background-color:darkslateblue;">
+		<h1>HeptaFlip</h1>
+		<p>Welcome to HeptaFlip<br />Can you deduce the pattern?</p>
+ </div>
+ </div>
+		<p>bbbooooop</p>
+	</body>
+
+</html>
