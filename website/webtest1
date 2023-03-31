@@ -1,0 +1,16 @@
+<html>
+
+	<head>
+		<title>HeptaFlip</title>
+		<style>
+		body {background-color: black;}
+		</style>
+	</head>
+
+	<body>
+		<h1 style="color:darkslategrey;text-align:center;">HeptaFlip</h1>
+		<p style="color:darkslateblue;text-align:center;";">Welcome to HeptaFlip<br />Can you deduce the pattern?</p>
+		<img src="hepta.png" style="width:20%;"/>
+	</body>
+
+</html>
