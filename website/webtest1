@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+
+	<head>
+		<title>HeptaFlip</title>
+		<style>
+		h1 {color:#d6a000;text-align:center;}
+		h2 {color:#e48300;text-align:center;}
+		p {color:#e48300;text-align:center;}
+		body {color:yellow;background-color:#060020;}
+		* {font-family: monospace;}
+		.container {
+		  display: flex;
+		  flex-wrap: wrap;
+		}
+		.sidebar {
+		  flex-basis: 10%;
+		}
+		.main-content {
+		  flex-basis: 90%;
+		}
+		.full-content {
+		  flex-basis: 100%;
+		}
+
+		</style>
+	</head>
+
+	<body>
+<div class="container">
+<div class="sidebar" style="background-color:#0e0814;">
+		<img src="hepta.png" style="width:100%;"/>
+		<img src="hepta.png" style="width:100%;"/>
+ </div>
+
+  <div class="main-content" style="background-color:#12032a;">
+		<h1 style="font-size:60px;"><a href="https://github.com/HarryHelsing/HeptaFlip">HeptaFlip</a></h1>
+		<h2>Welcome to HeptaFlip</h2>
+ </div>
+ </div>
+<div class="container">
+<div class="full-content" style="background-color:#3a2d51;">
+<hr>
+<p><i>A terminal based puzzle game about flipping lines in a Heptagram.</i></p> 
+<hr>
+<pre style="text-align:center;font-size:15px"><b>
+--  --
+------
+--  --
+------
+------
+------
+--  --
+</b></pre>
+		<img src="example.jpg" style="width:100%;"/>
+</div>
+</div>
+	</body>
+
+</html>
