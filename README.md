@@ -10,3 +10,4 @@ There are currently 49 levels where you have to deduce paterns to flip lines int
 - [X] Versatile codebase is needed to easily create new levels  
 - [ ] Add dynamic dialogue to the levels that adapts to how well you are doing  
 - [ ] Include ASCII character with the dialogue e.g. `/{'-'}\`  `-{'o'}-`  `\{^-^}/`  `~{'-'}¬`  
+- [ ] Create Mystery levels with added dialogue and a "true ending"  
